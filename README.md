@@ -1,3 +1,8 @@
+#🔗 Live Interactive Dashboard
+📊 View Interactive File: https://1drv.ms/x/c/158b6586ee86bb62/IQDmbGD3Bf9_QZGd2WOKy79MAQ_Q_aAi-VK4ooc-yPisZOo?e=yZWIVh
+
+(Note: View-only permission granted. Open in Excel Online to test dynamic slicers and filters).
+
 # Retail Sales & Store Operations Analytics
 ## Executive Summary
 This project analyzes transactional store sales data to diagnose revenue performance, optimize regional fulfillment, and identify high-value customer segments. Using SQL for data extraction and Advanced Excel for interactive dashboarding, this project translates complex transactional data into strategic insights for supply chain and sales managers.
