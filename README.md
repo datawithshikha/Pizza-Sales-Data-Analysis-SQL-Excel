@@ -1,7 +1,5 @@
-#🔗 Live Interactive Dashboard
-📊 View Interactive File: https://1drv.ms/x/c/158b6586ee86bb62/IQDmbGD3Bf9_QZGd2WOKy79MAQ_Q_aAi-VK4ooc-yPisZOo?e=yZWIVh
-
-(Note: View-only permission granted. Open in Excel Online to test dynamic slicers and filters).
+# 🔗 Live Interactive Dashboard
+##📊 View Interactive File: https://1drv.ms/x/c/158b6586ee86bb62/IQDmbGD3Bf9_QZGd2WOKy79MAQ_Q_aAi-VK4ooc-yPisZOo?e=yZWIVh
 
 # Retail Sales & Store Operations Analytics
 ## Executive Summary
